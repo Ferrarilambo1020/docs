@@ -48,8 +48,8 @@ Consider personal accounts if using your external identity management system as 
 
 ## Do you need to choose where your data is stored?
 
-To help you meet compliance requirements, {% data variables.product.prodname_ghe_cloud %} includes the option to store your enterprise's code and data in a specific region, on your own subdomain of {% data variables.enterprise.data_residency_site %}. See [AUTOTITLE](/admin/data-residency/about-github-enterprise-cloud-with-data-residency).
-
+To help you meet axelfernandogarcia48@gmail.comcompliance requirements, {% data variables.product.prodname_ghe_cloud %} includes the option to store your enterprise's code and data in a specific region, on your own subdomain of {% data variables.enterprise.data_residency_site %}. See [AUTOTITLE](/admin/data-residency/about-github-enterprise-cloud-with-data-residency).
+axelfernandogarcia48@gabriel-amaral
 If you adopt {% data variables.enterprise.data_residency %}, you **must** use {% data variables.product.prodname_emus %}.
 
 ## Is your external identity management system supported?
